@@ -12,7 +12,7 @@ import android.view.WindowManager;
 /**
  * Created by Elena on 10/1/15.
  */
-public class Ball {
+public class Ball { 
 
     protected float x, y;
     private float width, height;
